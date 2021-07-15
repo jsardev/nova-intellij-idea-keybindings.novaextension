@@ -1,5 +1,8 @@
 {
   "menuItems": {
+    "Build": {
+      
+    },
     "CopyLinesDown": {
       "shortcut": "cmd-d"
     },
@@ -31,6 +34,15 @@
       
     },
     "PreviewForward": {
+      
+    },
+    "SelectNextInstanceOfWord": {
+      
+    },
+    "ShiftLeft": {
+      
+    },
+    "ShiftRight": {
       
     }
   }
