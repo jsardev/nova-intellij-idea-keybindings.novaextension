@@ -1,0 +1,34 @@
+{
+  "menuItems": {
+    "CopyLinesDown": {
+      "shortcut": "cmd-d"
+    },
+    "CopyLinesUp": {
+      
+    },
+    "DeleteLines": {
+      "shortcut": "cmd-delete"
+    },
+    "GoBack": {
+      "shortcut": "cmd-["
+    },
+    "GoForward": {
+      "shortcut": "cmd-]"
+    },
+    "JumpToDefinition": {
+      "shortcut": "cmd-b"
+    },
+    "MoveLinesDown": {
+      "shortcut": "alt-shift-down"
+    },
+    "MoveLinesUp": {
+      "shortcut": "alt-shift-up"
+    },
+    "PreviewBack": {
+      
+    },
+    "PreviewForward": {
+      
+    }
+  }
+}

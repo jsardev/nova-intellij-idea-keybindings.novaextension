@@ -1,45 +1,48 @@
-<!--
-👋 Hello! As Nova users browse the extensions library, a good README can help them understand what your extension does, how it works, and what setup or configuration it may require.
+# IntelliJ IDEA Key Bindings for Nova
+---
+Port of IntelliJ IDEA key bindings for Nova.
 
-Not every extension will need every item described below. Use your best judgement when deciding which parts to keep to provide the best experience for your new users.
+## Usage
+1. Go to **Settings**
+2. Go to **Key Bindings**
+3. Choose **IntelliJ IDEA** from the Key Bindings Set
 
-💡 Quick Tip! As you edit this README template, you can preview your changes by selecting **Extensions → Activate Project as Extension**, opening the Extension Library, and selecting "nova-intellij-idea-keybindings" in the sidebar.
+## Keybindings
 
-Let's get started!
--->
+New file
+New window
 
-<!--
-🎈 Include a brief description of the key bindings your extension provides. For example:
--->
+Split panes right
+Split panes down
+Comment line
+Select successive code block
 
-**nova-intellij-idea-keybindings** provides key bindings from **Another Editor**, helping you feel right at home in Nova.
+### Navigation
+Command | Keybinding | Supported
+------- | ---------- | ---------
+Go to line | cmd+l | ✅
+Navigate back | cmd+[ | ✅
+Navigate forward | cmd+] | ✅
+Go to declaration | cmd+b | ✅
+Go to start of file | cmd+home | N/A
+Go to end of file | cmd+end | N/A
+Go to next editor tab | cmd+shift+] | ✅
+Go to previous editor tab | cmd+shift+[ | ✅
+Find usages | alt+f7 | N/A
+Find | cmd+f | ✅
+Replace | cmd+r | ✅
+Find in project | cmd+shift+f | ✅
+Replace in project | cmd+shift+r | ??
 
-## Details
+### Editing
+Command | Keybinding
+------- | ----------
+Delete line | cmd+backspace | ✅
+Duplicate line | cmd+d | ✅
+Move line up | shift+alt+up | ✅
+Move line down | shift+alt+down | ✅
+Format | cmd+alt+l | ??
+Save all | cmd+s | ??
 
-<!--
-🎈 To help users get a feel for how bindings provided by your extension will work in practice, consider listing them:
--->
-
-| Menu Item              | Binding     |
-| ---------------------- | ----------- |
-| **Command Palette...** | `Shift-⌘-P` |
-| **Open Quickly...**    | `⌘-P`       |
-| ...                    |             |
-
-<!--
-🎈 If your extension provides too many bindings to list, that's okay! Instead, consider providing an overview of what users might expect to find:
--->
-
-nova-intellij-idea-keybindings offers keyboard bindings in the following categories:
-
-- Lorem
-- Ipsum
-- Dolor
-- Sit
-- Amet
-
-<!--
-👋 That's it! Happy developing!
-
-P.S. If you'd like, you can remove these comments before submitting your extension 😉
--->
+### Refactoring
+Rename | shift+f6 | ??
