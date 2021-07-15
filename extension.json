@@ -2,7 +2,11 @@
     "identifier": "com.jsarnowski.nova-intellij-idea-keybindings",
     "name": "nova-intellij-idea-keybindings",
     "organization": "Jakub Sarnowski",
-    "description": "Lorem ipsum, dolor sit amet.",
+    "description": "Port of IntelliJ IDEA key bindings for Nova.",
     "version": "1.0",
-    "categories": ["key-bindings"]
+    "categories": ["key-bindings"],
+    "repository": "https://github.com/sarneeh/nova-intellij-idea-keybindings.novaextension",
+    "bugs": "https://github.com/sarneeh/nova-intellij-idea-keybindings.novaextension/issues",
+    "funding": "https://www.buymeacoffee.com/jsarnowski",
+    "license": "MIT"
 }
