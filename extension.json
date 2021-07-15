@@ -3,7 +3,7 @@
     "name": "IntelliJ IDEA Key Bindings",
     "organization": "Jakub Sarnowski",
     "description": "Port of IntelliJ IDEA key bindings for Nova.",
-    "version": "1.1",
+    "version": "1.2",
     "categories": ["key-bindings"],
     "repository": "https://github.com/sarneeh/nova-intellij-idea-keybindings.novaextension",
     "bugs": "https://github.com/sarneeh/nova-intellij-idea-keybindings.novaextension/issues",
