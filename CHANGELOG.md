@@ -1,3 +1,7 @@
 ## Version 1.0
 
-Initial release
+- release initial version
+
+## Version 1.1
+
+- add extension name
